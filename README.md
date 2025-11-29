@@ -7,6 +7,8 @@
 | **Evaluation**             | Permite medir precisión, recall, matriz de confusión o ROC.  |
 # ciencia-de-datos-proyecto-3
 
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn?resource=download
+
 📌 1. Relevancia del dataset para un problema real de negocio
 
 El churn (abandono de clientes) es uno de los problemas más importantes en telecomunicaciones, porque:
